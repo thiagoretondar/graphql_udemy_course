@@ -1,0 +1,24 @@
+{
+  "name": "thiagoretondar",
+  "version": "1.0.0",
+  "description": "GraphQL Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoretondar/graphql_udemy_course.git"
+  },
+  "keywords": [
+    "graphql",
+    "node.js",
+    "react.js"
+  ],
+  "author": "Thiago Retondar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagoretondar/graphql_udemy_course/issues"
+  },
+  "homepage": "https://github.com/thiagoretondar/graphql_udemy_course#readme"
+}
