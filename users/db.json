@@ -1,11 +1,39 @@
 {
-    "users": [
-        { "id": "123", "firstName": "Thiago Retondar", "age": 23, "companyId": 1 },
-        { "id": "321", "firstName": "Tiffany Mark", "age": 21, "companyId": 2 },
-        { "id": "456", "firstName": "Felipe", "age": 20, "companyId": 2 }
-    ],
-    "companies": [
-        { "id": "1", "name": "Apple", "description": "tech company" },
-        { "id": "2", "name": "Microsoft", "description": "tech company" }
-    ]
+  "users": [
+    {
+      "id": "123",
+      "firstName": "Thiago Nascimento Alves Retondar",
+      "age": 23,
+      "companyId": 1
+    },
+    {
+      "id": "321",
+      "firstName": "Tiffany Mark",
+      "age": 21,
+      "companyId": 2
+    },
+    {
+      "id": "456",
+      "firstName": "Felipe",
+      "age": 20,
+      "companyId": 2
+    },
+    {
+      "firstName": "Zyon",
+      "age": 24,
+      "id": "ryCxwB3ZW"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "tech company"
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "tech company"
+    }
+  ]
 }
